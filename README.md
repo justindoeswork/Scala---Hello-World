@@ -1,3 +1,3 @@
-# Scala-Hello-World
+# Scala-HelloWorld
 
-Basic structure of a Scala Application. This project can be used to test builds, IDE's or automation.
+Basic scala application, can be used to test builds, IDE's or automation.
